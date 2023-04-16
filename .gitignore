@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/ServiceAgency
+/code/bin/Debug/net6.0
+/code/obj
+/code/code.csproj.user
